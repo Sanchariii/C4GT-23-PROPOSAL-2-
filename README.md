@@ -10,6 +10,8 @@ With the help of this chatbot, users may send and receive audio notes through we
 
 Keywords: Glific Chatbot, Voice to Text, REST API, Elixir , Node.js, python
 
+You can see my full proposal here: [SANCHARI RAY C4GT'23 PROPOSAL](https://drive.google.com/file/d/13KX8rO42zXgPIvAMPhUT025DeGyrSeB4/view?usp=sharing)
+
 
 # Thanking Note:
 
